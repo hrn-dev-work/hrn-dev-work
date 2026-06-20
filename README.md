@@ -50,8 +50,6 @@ When I'm not writing code or exploring new AI prompts, you can find me typing aw
 
 ---
 
-<h2 id="-japanese-profile">🇯🇵 日本語プロフィール</h2>
-
 ### 🚀 自己紹介
 東京を拠点に活動するシニアバックエンドエンジニアです。7年以上の実務経験があり、堅牢なサーバーサイドアーキテクチャの構築を専門としています。得意領域は **Java**、**PHP (Laravel)**、**TypeScript (NestJS/Next.js)** であり、特に **ドメイン駆動設計 (DDD)** と **クリーンアーキテクチャ** に深く注力しています。
 
