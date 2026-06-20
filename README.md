@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrn-engineer-b1b270409/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:hrn.dev.work@gmail.com)
 
-*(English / [日本語プロフィールは下にあります](#-japanese-profile))*
+*(English / [日本語](#-japanese-profile))*
 
 ---
 
@@ -48,7 +48,6 @@ I have a history of recovering delayed, high-stakes projects. Most recently, I s
 ### ⚡ Fun Fact
 When I'm not writing code or exploring new AI prompts, you can find me typing away on my REALFORCE R4 with Japanese traditional color keycaps, accompanied by my two male cats. 🐈🐈‍⬛
 
----
 ---
 
 <h2 id="-japanese-profile">🇯🇵 日本語プロフィール</h2>
