@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+logs/
+**/*.log
+dumps/
+.cursor/retrospective/
+.git-commit-msg.txt
