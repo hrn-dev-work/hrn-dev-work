@@ -4,7 +4,9 @@
 
 **Java Backend Engineer | Technical Instructor | AI-assisted Development**
 
-[Portfolio](https://portfolio-teal-ten-31.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/hrn-engineer-b1b270409/) · [Email](mailto:hrn.dev.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-teal-ten-31.vercel.app/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrn-engineer-b1b270409/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:hrn.dev.work@gmail.com)
 
 
 
@@ -82,6 +84,16 @@ For development inquiries, please share the system, requested work, timeline, an
 **Contact: [hrn.dev.work@gmail.com](mailto:hrn.dev.work@gmail.com)**
 
 ## Technology
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **Primary:** Java, Spring Framework, Spring Boot, Servlet/JSP, JUnit, SQL
 - **Other backend:** PHP, Laravel, TypeScript, NestJS, Prisma, PHPUnit, Jest
