@@ -1,90 +1,93 @@
 # Hi there, I'm HRN 👋
 
-**Senior Backend Engineer | AI-Native Developer | Founder of Sunstone Labs**
+[English](./README.md) | [日本語](./README.ja.md)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-teal-ten-31.vercel.app/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrn-engineer-b1b270409/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:hrn.dev.work@gmail.com)
+**Java Backend Engineer | Technical Instructor | AI-assisted Development**
 
-Japanese profile: see below.
+[Portfolio](https://portfolio-teal-ten-31.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/hrn-engineer-b1b270409/) · [Email](mailto:hrn.dev.work@gmail.com)
+
+
 
 ## About
 
-I am a Tokyo-based Senior Backend Engineer with over 7 years of experience specializing in building robust server-side architectures. My expertise lies in **Java**, **PHP (Laravel)**, and **TypeScript (NestJS/Next.js)**, with a deep focus on **Domain-Driven Design (DDD)** and **Clean Architecture**.
+**Java is my strongest language.** My experience centers on extending and maintaining business systems: understanding existing specifications, designing changes, implementing features, and testing them. I also work with PHP/Laravel and TypeScript/NestJS.
 
-I pride myself on balancing long-term system maintainability with high-speed delivery. By integrating AI-driven development (Vibe Coding) using tools like **Cursor** and **Claude**, I accelerate the development lifecycle without compromising code quality or architectural integrity.
+Alongside development, I have **7 months of experience teaching programming beginners**, covering Java, SQL, web application development, testing, Git, and Linux. I bring practical experience with Claude Code and Gemini to discussions about AI training and workplace improvement.
 
-*Currently open to global freelance and contract opportunities.*
+## Training for your team
 
-## Tech Stack
+**From a first introduction to AI to practical use in software development, the starting point is the work your team needs to do.** Drawing on my experience teaching beginners and using AI in development, I welcome training inquiries for both business teams and engineers.
 
-**Architecture & Methodology:**  
-`Domain-Driven Design` `Clean Architecture` `Microservices` `Agile`
+The following are proposed topics for discussion, tailored to participants' experience and goals.
 
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+| Audience | Example training topics | Learning goals |
+| --- | --- | --- |
+| Business teams and people new to AI | Giving clear instructions; drafting emails and reports; summarizing documents; checking outputs and handling information | Identify a suitable task, give AI the context it needs, and check the result before use |
+| Engineers and development teams | Reading existing code; drafting tests; documenting specifications; reviewing AI-generated code | Incorporate AI into development while checking correctness and keeping review responsibility clear |
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+For both audiences, the proposed approach combines a short explanation, exercises, and review of the results. Exercise content and tools can be discussed around your organization's AI usage rules and the information participants may use.
 
-**Databases & DevOps:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Experience behind this offer:** 7 months teaching beginners, including preparation of materials and code/design review; practical AI use for code analysis, migration assistance, testing, and documentation. Details appear below.
 
-## Track Record
+[Discuss a training need by email](mailto:hrn.dev.work@gmail.com) — even if the topic is not decided yet, please share the audience and the work they would like to improve.
 
-I have a history of recovering delayed, high-stakes projects. Most recently, I spearheaded the architectural redesign and migration of a complex medical application from Java to a modern TypeScript/NestJS stack, ensuring stability, scalability, and faster feature delivery.
+## Java experience
 
-## Fun Fact
+The following five Java projects total **5 years and 5 months of listed project durations**, including testing work. This excludes instructor work, initial training, and the Java-to-TypeScript migration below.
 
-When I'm not writing code or exploring new AI prompts, you can find me typing away on my REALFORCE R4 with Japanese traditional color keycaps, accompanied by my two male cats. 🐈🐈‍⬛
+| Project | Duration | Responsibilities |
+| --- | --- | --- |
+| Corporate HR system | 3 years | Detailed design, changes for social insurance legislation, bug fixes, unit test specifications and execution |
+| Public employment service system | 9 months | Basic/detailed design, search and CRUD features, unit and integration testing with Java/Spring Framework |
+| Radio equipment deployment system | 7 months | Detailed design, user information updates, search features, unit and integration testing |
+| Financial-sector internal system modernization | 9 months | Basic/detailed design, permission management, PDF/CSV output, unit and integration testing with Java/Spring Framework |
+| Individual annuity insurance system | 4 months | Unit test case preparation and execution for a Java/SQL system |
 
----
+## Teaching experience
 
-# HRN（日本語）
+**In-house technical instructor — 7 months**
 
-**シニアバックエンドエンジニア | AIネイティブ開発者 | Sunstone Labs 創業者**
+- Taught beginners in groups of approximately five trainees per instructor.
+- Covered Java fundamentals, file I/O and batch processing, JUnit, SQL/CRUD and joins, Servlet/JSP, and Spring MVC/Spring Boot web applications.
+- Taught Git workflows and conflict resolution, plus Linux fundamentals and commands.
+- Prepared training materials, reviewed code and design documents, and managed trainee progress and attendance.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-teal-ten-31.vercel.app/en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrn-engineer-b1b270409/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:hrn.dev.work@gmail.com)
+For AI training, I draw on this teaching experience and the development practices below. I welcome discussions about introductory generative AI workshops, AI-assisted development, and applying AI to everyday work.
 
-## 自己紹介
+## AI use in development
 
-東京を拠点に活動するシニアバックエンドエンジニアです。7年以上の実務経験があり、堅牢なサーバーサイドアーキテクチャの構築を専門としています。得意領域は **Java**、**PHP (Laravel)**、**TypeScript (NestJS/Next.js)** であり、特に **ドメイン駆動設計 (DDD)** と **クリーンアーキテクチャ** に深く注力しています。
+- **Medical platform — 7 months:** analyzed existing Java business logic and worked on a TypeScript/NestJS replacement, including domain modeling, API and database design, implementation, and testing. Used Claude Code for code analysis, migration assistance, and test generation; reviewed generated code for business logic and security.
+- **Vulnerability management platform — 7 months:** developed PHP/Laravel backend features, external API synchronization, and refactoring. Used Gemini for code analysis and test assistance, and documented development environments and system specifications.
 
-長期的なシステムの保守性と、高速な価値提供のバランスを取ることを強みとしています。**Cursor** や **Claude** などのツールを利用した AI 駆動開発（Vibe Coding）をワークフローに組み込むことで、コードの品質や設計の整合性を妥協することなく、開発サイクルを劇的に加速させています。
+I clarify the purpose of a change, raise questions early, and document complicated behavior so the team can work with fewer misunderstandings.
 
-*※現在、グローバルなフリーランス・業務委託案件を募集しております。*
+## Qualifications
 
-## 技術スタック
+- Oracle Certified Java Programmer Bronze SE
+- Oracle Certified Java Programmer Silver SE 11
+- AWS Certified Cloud Practitioner
 
-**アーキテクチャ・開発手法:**  
-`ドメイン駆動設計 (DDD)` `クリーンアーキテクチャ` `マイクロサービス` `アジャイル`
+Experience and credential entries are based on my September 18, 2026 skill sheet.
 
-**バックエンド:**  
-Java / Spring Boot / PHP / Laravel / TypeScript
+## How I can help
 
-**フロントエンド:**  
-React / Next.js / Tailwind CSS
+- **Java backend development:** feature additions, existing system maintenance, specification analysis, design, and testing.
+- **Technical training:** Java/SQL/web development fundamentals, exercises, and code/design review for beginners.
+- **AI training for business teams:** introductory workshops, drafting and summarizing work documents, clear instructions, and output checking; topics agreed around the team's work.
+- **AI training for engineers:** understanding code, drafting tests, documenting specifications, and reviewing generated code.
+- **Backend improvement:** Laravel/NestJS development, API integration, refactoring, and documentation.
 
-**データベース・インフラ:**  
-PostgreSQL / MySQL / AWS / Docker
+For development inquiries, please share the system, requested work, timeline, and expected workload. For training, please share the audience, participant count, learning goals, format, and preferred dates.
 
-（バッジアイコンは英語セクションと同じです。）
+**Contact: [hrn.dev.work@gmail.com](mailto:hrn.dev.work@gmail.com)**
 
-## 実績
+## Technology
 
-炎上・遅延している難易度の高いプロジェクトの立て直しを得意としています。直近では、複雑な医療系アプリケーションにおいて、Java からモダンな TypeScript/NestJS スタックへのアーキテクチャ再設計とリプレイスを主導し、システムの安定性、拡張性、および機能開発のスピード向上を実現しました。
+- **Primary:** Java, Spring Framework, Spring Boot, Servlet/JSP, JUnit, SQL
+- **Other backend:** PHP, Laravel, TypeScript, NestJS, Prisma, PHPUnit, Jest
+- **Databases:** PostgreSQL, MySQL, Oracle Database, Redis
+- **Tools and practices:** Git, Docker, Linux/WSL2, AWS, Claude Code, Gemini, domain-driven design, code review, automated testing
 
-## 余談
+## Outside work
 
-コードを書いたり、AIのプロンプトを試行錯誤したりしていない時は、2匹のねこずに見守られながら、日本の伝統色キーキャップにカスタマイズした REALFORCE R4 でタイピングを楽しんでいます。🐈🐈‍⬛
+I enjoy my REALFORCE R4 with Japanese traditional color keycaps, with my two cats nearby. 🐈🐈‍⬛
