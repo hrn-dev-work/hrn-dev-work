@@ -14,7 +14,7 @@
 
 **Java is my strongest language.** My experience centers on extending and maintaining business systems: understanding existing specifications, designing changes, implementing features, and testing them. I also work with PHP/Laravel and TypeScript/NestJS.
 
-Alongside development, I have **7 months of experience teaching programming beginners**, covering Java, SQL, web application development, testing, Git, and Linux. I bring practical experience with Claude Code and Gemini to discussions about AI training and workplace improvement.
+Alongside development, I have **experience teaching programming beginners**, covering Java, SQL, web application development, testing, Git, and Linux. I bring practical experience with Claude Code and Gemini to discussions about AI training and workplace improvement.
 
 ## Training for your team
 
@@ -29,25 +29,23 @@ The following are proposed topics for discussion, tailored to participants' expe
 
 For both audiences, the proposed approach combines a short explanation, exercises, and review of the results. Exercise content and tools can be discussed around your organization's AI usage rules and the information participants may use.
 
-**Experience behind this offer:** 7 months teaching beginners, including preparation of materials and code/design review; practical AI use for code analysis, migration assistance, testing, and documentation. Details appear below.
+**Experience behind this offer:** experience teaching beginners, including preparation of materials and code/design review; practical AI use for code analysis, migration assistance, testing, and documentation. Details appear below.
 
 [Discuss a training need by email](mailto:hrn.dev.work@gmail.com) — even if the topic is not decided yet, please share the audience and the work they would like to improve.
 
 ## Java experience
 
-The following five Java projects total **5 years and 5 months of listed project durations**, including testing work. This excludes instructor work, initial training, and the Java-to-TypeScript migration below.
-
-| Project | Duration | Responsibilities |
-| --- | --- | --- |
-| Corporate HR system | 3 years | Detailed design, changes for social insurance legislation, bug fixes, unit test specifications and execution |
-| Public employment service system | 9 months | Basic/detailed design, search and CRUD features, unit and integration testing with Java/Spring Framework |
-| Radio equipment deployment system | 7 months | Detailed design, user information updates, search features, unit and integration testing |
-| Financial-sector internal system modernization | 9 months | Basic/detailed design, permission management, PDF/CSV output, unit and integration testing with Java/Spring Framework |
-| Individual annuity insurance system | 4 months | Unit test case preparation and execution for a Java/SQL system |
+| Project | Responsibilities |
+| --- | --- |
+| Corporate HR system | Detailed design, changes for social insurance legislation, bug fixes, unit test specifications and execution |
+| Public employment service system | Basic/detailed design, search and CRUD features, unit and integration testing with Java/Spring Framework |
+| Radio equipment deployment system | Detailed design, user information updates, search features, unit and integration testing |
+| Financial-sector internal system modernization | Basic/detailed design, permission management, PDF/CSV output, unit and integration testing with Java/Spring Framework |
+| Individual annuity insurance system | Unit test case preparation and execution for a Java/SQL system |
 
 ## Teaching experience
 
-**In-house technical instructor — 7 months**
+**In-house technical instructor**
 
 - Taught beginners in groups of approximately five trainees per instructor.
 - Covered Java fundamentals, file I/O and batch processing, JUnit, SQL/CRUD and joins, Servlet/JSP, and Spring MVC/Spring Boot web applications.
@@ -58,8 +56,8 @@ For AI training, I draw on this teaching experience and the development practice
 
 ## AI use in development
 
-- **Medical platform — 7 months:** analyzed existing Java business logic and worked on a TypeScript/NestJS replacement, including domain modeling, API and database design, implementation, and testing. Used Claude Code for code analysis, migration assistance, and test generation; reviewed generated code for business logic and security.
-- **Vulnerability management platform — 7 months:** developed PHP/Laravel backend features, external API synchronization, and refactoring. Used Gemini for code analysis and test assistance, and documented development environments and system specifications.
+- **Medical platform:** analyzed existing Java business logic and worked on a TypeScript/NestJS replacement, including domain modeling, API and database design, implementation, and testing. Used Claude Code for code analysis, migration assistance, and test generation; reviewed generated code for business logic and security.
+- **Vulnerability management platform:** developed PHP/Laravel backend features, external API synchronization, and refactoring. Used Gemini for code analysis and test assistance, and documented development environments and system specifications.
 
 I clarify the purpose of a change, raise questions early, and document complicated behavior so the team can work with fewer misunderstandings.
 
