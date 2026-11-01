@@ -4,7 +4,9 @@
 
 **Javaを主軸とするバックエンドエンジニア | 技術研修講師 | AIを活用した開発**
 
-[ポートフォリオ](https://portfolio-teal-ten-31.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/hrn-engineer-b1b270409/) · [メールで相談](mailto:hrn.dev.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=vercel)](https://portfolio-teal-ten-31.vercel.app/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrn-engineer-b1b270409/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:hrn.dev.work@gmail.com)
 
 ## 自己紹介
 
@@ -82,6 +84,16 @@ AI研修では、この指導経験と下記の実務経験を生かし、生成
 **お問い合わせ：[hrn.dev.work@gmail.com](mailto:hrn.dev.work@gmail.com)**
 
 ## 技術スタック
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 - **主軸**：Java、Spring Framework、Spring Boot、Servlet/JSP、JUnit、SQL
 - **その他のバックエンド**：PHP、Laravel、TypeScript、NestJS、Prisma、PHPUnit、Jest
